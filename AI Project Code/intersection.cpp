@@ -1,11 +1,3 @@
-//
-//  intersection.cpp
-//  Artificial Intelligence Project
-//
-//  Created by Jason Moynihan on 11/21/20.
-//  Copyright © 2020 Jason Moynihan. All rights reserved.
-//
-
 #include <stdio.h>
 #include "intersection.h"
 #include <iostream>
