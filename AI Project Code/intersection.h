@@ -1,11 +1,3 @@
-//
-//  intersection.h
-//  Artificial Intelligence Project
-//
-//  Created by Jason Moynihan on 11/21/20.
-//  Copyright © 2020 Jason Moynihan. All rights reserved.
-//
-
 #ifndef intersection_h
 #define intersection_h
 
